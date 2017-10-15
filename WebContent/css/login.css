@@ -1,0 +1,16 @@
+h2 {
+	text-align: center;
+}
+
+label {
+	margin-left: inherit;
+}
+
+input {
+	margin-right: inherit;
+}
+
+.div-signin {
+	margin-top: 20px;
+	padding-right: 15px;
+}

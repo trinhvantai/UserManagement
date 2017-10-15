@@ -1,0 +1,19 @@
+
+table {
+	
+	width: 100%;
+}
+
+td, th {
+	border: 1px solid #dddddd;
+	text-align: center;
+}
+tr:nth-child(even){
+	background-color: #dddddd
+}
+tr:hover{
+	background-color: #ffc4c4;
+}
+.btn-group{
+	display: block;
+}

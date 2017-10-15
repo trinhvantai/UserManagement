@@ -1,0 +1,25 @@
+.form {
+	text-align: center;
+}
+
+.inp {
+	float: right;
+}
+
+label {
+	float: left;
+	text-align: right;
+}
+
+h2 {
+	margin-bottom: 20px;
+}
+
+a {
+	text-align: center;
+	padding-top: 7px;
+}
+
+.div-submit {
+	margin-top: 20px;
+}
